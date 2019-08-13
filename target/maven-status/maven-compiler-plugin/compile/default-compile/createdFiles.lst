@@ -1,0 +1,7 @@
+br\com\sermed\agenda\model\Agenda$AgendaBuilder.class
+br\com\sermed\agenda\repository\AgendaRepository.class
+br\com\sermed\agenda\controller\AgendaController.class
+br\com\sermed\agenda\AgendaApplication.class
+br\com\sermed\agenda\service\AgendaService.class
+br\com\sermed\agenda\dal\MongoDbConfiguration.class
+br\com\sermed\agenda\model\Agenda.class
